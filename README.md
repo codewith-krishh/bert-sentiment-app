@@ -2,7 +2,7 @@
 
 Fine-tuned `bert-base-uncased` achieves **86% accuracy** on IMDb sentiment classification — deployable in 1 click.
 
-🚀 **[Live Demo](https://your-streamlit-url.streamlit.app)** &nbsp;|&nbsp; 🤗 **[Model on HuggingFace](https://huggingface.co/Xtern0723/bert-imdb-sentiment)**
+🚀 **[Live Demo](https://bert-sentiment-app-011.streamlit.app/)** &nbsp;|&nbsp; 🤗 **[Model on HuggingFace](https://huggingface.co/Xtern0723/bert-imdb-sentiment)**
 
 ---
 
